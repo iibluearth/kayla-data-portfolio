@@ -1,6 +1,6 @@
-<h1>Hi, I'm Kayla, an <a href="https://linkedin.com/in/kmann777">Data Entry Specialist with Analytics Skills</a>🤗</h1>
+<h1>Hi, I'm Kayla, an <a href="https://linkedin.com/in/kmann777">Data Analytics </a>🤗</h1>
 
-<h2>📊 Data Entry & Data Analytics Projects:</h2>
+<h2>📊 Data Analytics Projects:</h2>
 
 - <b>MySQL</b>
   - [MySQL Data Cleaning Project – Layoffs Dataset](https://github.com/iibluearth/mysql-data-cleaning)
@@ -15,9 +15,8 @@
 <h2>📈 Data Visualization</h2>
 
 - <b>Tableau</b>
-  - [In Progress...]
-- <b>Power BI</b>
-  - [In Progress...]
+  - [ Seattle Airbnb Tableau Project](https://github.com/iibluearth/seattle-airbnb-tableau)
+
 - <b>🐍 Python & Pandas</b>
   - [In Progress...]
  
