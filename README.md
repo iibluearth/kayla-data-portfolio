@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kayla, an <a href="https://linkedin.com/in/kmann777">Data Analytics </a>🤗</h1>
+<h1>Hi, I'm Kayla, an <a href="https://linkedin.com/in/kmann777">Data Analyst </a>🤗</h1>
 
 <h2>📊 Data Analytics Projects:</h2>
 
