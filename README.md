@@ -18,7 +18,10 @@
   - [ Seattle Airbnb Tableau Project](https://github.com/iibluearth/seattle-airbnb-tableau)
 
 - <b>🐍 Python & Pandas</b>
-  - [In Progress...]
+  - [BMI Calculator Project](https://github.com/iibluearth/bmi-calculator-python-project)
+  - [Automatic File Sorter in File Explorer](https://github.com/iibluearth/automatic-file-sorter-in-file-explorer)
+  - [Scraping Data from a Real Website + Pandas](https://github.com/iibluearth/scraping-data-from-a-real-website-pandas)
+  - [Amazon Web Scraper Project](https://github.com/iibluearth/amazon-web-scraper-project)
  
 <h2>🤳Connect with me:</h2>
  
